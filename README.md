@@ -47,5 +47,6 @@ To try out the admin dashboard, use the following credentials:
 - ImageKit API  
 
 ---
+![image](https://github.com/user-attachments/assets/a2ce1209-b92c-4bdb-b9af-a4429d628ac1)
 
 
